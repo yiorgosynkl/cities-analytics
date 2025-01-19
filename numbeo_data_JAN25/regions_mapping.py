@@ -1,0 +1,46 @@
+continents2regions = {
+    "Africa": [
+        "Eastern Africa",
+        "Middle Africa",
+        "Northern Africa",
+        "Southern Africa",
+        "Western Africa",
+    ],
+    "America": ["Caribbean", "Central America", "Northern America", "South America"],
+    "Asia": [
+        "Central Asia",
+        "Eastern Asia",
+        "Southern Asia",
+        "South-Eastern Asia",
+        "Western Asia",
+    ],
+    "Europe": [
+        "Eastern Europe",
+        "Northern Europe",
+        "Southern Europe",
+        "Western Europe",
+    ],
+    "Oceania": ["Oceania"],
+}
+
+regions2countries = {
+    "Eastern Africa": ['Ethiopia', 'Kenya', 'Uganda'],
+    "Middle Africa": [],
+    "Northern Africa": ['Algeria', 'Egypt', 'Libya', 'Morocco', 'Tunisia'],
+    "Southern Africa": ['South Africa'],
+    "Western Africa": ['Nigeria'],
+    "Caribbean": ['Trinidad And Tobago'],
+    "Central America": ['Guatemala', 'Mexico', 'Panama'],
+    "Northern America": ['AZ, United States', 'CA, United States', 'CO, United States', 'Canada', 'DC, United States', 'FL, United States', 'GA, United States', 'HI, United States', 'ID, United States', 'IL, United States', 'IN, United States', 'LA, United States', 'MA, United States', 'MD, United States', 'MN, United States', 'MO, United States', 'NC, United States', 'NV, United States', 'NY, United States', 'OH, United States', 'OR, United States', 'PA, United States', 'TN, United States', 'TX, United States', 'UT, United States', 'WA, United States', 'WI, United States'],
+    "South America": ['Argentina', 'Brazil', 'Chile', 'Colombia', 'Ecuador', 'Peru', 'Uruguay', 'Venezuela'],
+    "Central Asia": ['Kazakhstan', 'Kyrgyzstan', 'Uzbekistan'],
+    "Eastern Asia": ['China', 'Hong Kong (China)', 'Japan', 'Mongolia', 'South Korea', 'Taiwan'],
+    "Southern Asia": ['Bangladesh', 'India', 'Iran', 'Nepal', 'Pakistan', 'Sri Lanka'],
+    "South-Eastern Asia": ['Cambodia', 'Indonesia', 'Malaysia', 'Philippines', 'Singapore', 'Thailand', 'Vietnam'],
+    "Western Asia": ['Ajara', 'Armenia', 'Azerbaijan', 'Cyprus', 'Georgia', 'Iraq', 'Israel', 'Jordan', 'Lebanon', 'Oman', 'Qatar', 'Saudi Arabia', 'Turkey', 'United Arab Emirates'],
+    "Eastern Europe": ['Belarus', 'Bulgaria', 'Czech Republic', 'Hungary', 'Moldova', 'Poland', 'Romania', 'Russia', 'Slovakia', 'Ukraine'],
+    "Northern Europe": ['Denmark', 'Estonia', 'Finland', 'Iceland', 'Ireland', 'Latvia', 'Lithuania', 'Norway', 'Sweden', 'United Kingdom'],
+    "Southern Europe": ['Albania', 'Bosnia And Herzegovina', 'Croatia', 'Greece', 'Italy', 'Kosovo (Disputed Territory)', 'Montenegro', 'North Macedonia', 'Portugal', 'Serbia', 'Slovenia', 'Spain'],
+    "Western Europe": ['Austria', 'Belgium', 'France', 'Germany', 'Luxembourg', 'Netherlands', 'Switzerland'],
+    "Oceania": ['Australia', 'New Zealand'],
+}

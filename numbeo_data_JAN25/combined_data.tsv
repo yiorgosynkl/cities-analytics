@@ -1,0 +1,270 @@
+City	Average Monthly Net Salary (After Tax) (in USD)	Mortgage Interest Rate in Percentages (%), Yearly, for 20 Years Fixed-Rate (in USD)	Apartment (1 bedroom) in City Centre (in USD)	Apartment (1 bedroom) Outside of Centre (in USD)	Apartment (3 bedrooms) in City Centre (in USD)	Apartment (3 bedrooms) Outside of Centre (in USD)	Price per Square Meter to Buy Apartment in City Centre (in USD)	Price per Square Meter to Buy Apartment Outside of Centre (in USD)	Region	Continent
+San Francisco, CA, United States	7531.53	6.57	3199.85	2830.43	5703.28	4623.81	11067.61	10173.76	Northern America	America
+Zurich, Switzerland	7339.69	2.3	2471.93	1979.89	4396.38	3318.12	24071.34	16644.22	Western Europe	Europe
+Geneva, Switzerland	7108.17	2.48	2082.56	1857.12	4243.66	3413.59	17984.51	14601.31	Western Europe	Europe
+Seattle, WA, United States	6674.67	6.42	2289.71	1844.44	4580.73	3436.77	7277.16	5477.16	Northern America	America
+Lausanne, Switzerland	6372.5	2.5	1678.18	1332.7	3109.76	2717.57	17273.76	11613.44	Western Europe	Europe
+Washington, DC, United States	5903.28	6.54	2532.95	2066.26	5376.32	4069.47	7594.72	6098.51	Northern America	America
+Boston, MA, United States	5760.0	6.57	3393.04	2472.41	5914.29	3812.61	10360.14	5861.45	Northern America	America
+Luxembourg, Luxembourg	5685.49	3.34	1886.88	1586.92	3298.58	2601.38	10734.5	7528.19	Western Europe	Europe
+New York, NY, United States	5545.95	6.63	4034.72	2942.81	8648.21	5306.92	17953.77	12887.36	Northern America	America
+San Diego, CA, United States	5520.01	6.46	2864.24	2373.44	4810.52	3994.74	9486.48	7219.6	Northern America	America
+Atlanta, GA, United States	5431.9	6.59	1896.52	1548.18	3128.75	2293.61	2991.08	2407.62	Northern America	America
+Austin, TX, United States	5140.98	6.66	2253.07	1507.79	3967.39	2625.62	3903.42	2782.47	Northern America	America
+Chicago, IL, United States	4955.97	6.64	2341.73	1532.88	4476.19	2859.09	3358.85	2709.39	Northern America	America
+Dallas, TX, United States	4912.26	6.27	1714.96	1483.91	3685.45	2675.04	3669.17	2239.08	Northern America	America
+Denver, CO, United States	4861.79	6.57	2114.0	1701.08	3676.19	2983.16	4633.87	3646.15	Northern America	America
+Tampa, FL, United States	4857.93	6.52	1963.96	1503.21	3479.57	2605.96	3828.24	2424.95	Northern America	America
+Portland, OR, United States	4810.6	6.59	1764.29	1517.68	3384.09	2624.0	3779.64	3326.11	Northern America	America
+Raleigh, NC, United States	4739.05	6.56	1827.76	1560.71	3121.43	2440.48	6100.24	2890.6	Northern America	America
+Los Angeles, CA, United States	4738.07	6.62	2447.24	2067.27	4616.14	3902.29	8007.62	7131.71	Northern America	America
+Saint Louis, MO, United States	4610.85	6.52	1321.75	1086.11	2666.67	2200.0	1879.46	1804.85	Northern America	America
+Minneapolis, MN, United States	4610.08	6.54	1650.53	1202.6	2571.36	1978.75	3401.54	2448.74	Northern America	America
+Charlotte, NC, United States	4570.16	6.53	1911.54	1636.67	4042.14	2579.33	4155.6	2837.71	Northern America	America
+Sacramento, CA, United States	4549.23	6.6	2109.58	1779.92	3541.67	2862.75	4240.22	3948.7	Northern America	America
+Nashville, TN, United States	4542.53	6.57	2022.65	1593.46	3572.22	2652.08	3453.02	3126.93	Northern America	America
+Indianapolis, IN, United States	4541.67	6.6	1582.22	1126.11	2508.33	1800.0	1944.39	1579.47	Northern America	America
+Madison, WI, United States	4454.1	6.55	1625.0	1359.23	2900.0	2312.5	2977.08	2424.89	Northern America	America
+Phoenix, AZ, United States	4431.66	6.51	1650.68	1376.7	2567.56	2265.04	3715.58	3163.34	Northern America	America
+Salt Lake City, UT, United States	4400.63	6.53	1631.32	1358.93	2716.67	2176.92	3452.88	2606.68	Northern America	America
+Orlando, FL, United States	4350.34	6.62	1905.15	1690.21	3175.0	2600.7	3160.39	2279.84	Northern America	America
+Houston, TX, United States	4305.44	6.58	1639.62	1196.71	3145.0	2254.82	2721.07	1937.64	Northern America	America
+Miami, FL, United States	4244.24	6.68	2811.18	2067.56	5424.7	3809.97	6437.55	3982.62	Northern America	America
+Honolulu, HI, United States	4200.37	6.61	2234.38	1873.08	4180.0	3609.09	8622.67	8042.15	Northern America	America
+Sydney, Australia	4165.74	6.44	2109.13	1387.26	3969.82	2481.33	13508.81	8325.35	Oceania	Oceania
+Las Vegas, NV, United States	4142.83	6.61	1593.83	1370.11	2701.96	2234.82	3275.8	2664.54	Northern America	America
+San Antonio, TX, United States	4112.92	6.45	1472.42	1165.4	2498.89	2030.69	4257.99	2060.85	Northern America	America
+Amsterdam, Netherlands	4076.92	4.11	2078.47	1704.39	3758.51	2694.64	9675.92	6999.81	Western Europe	Europe
+Philadelphia, PA, United States	4069.41	6.71	1811.81	1347.92	3210.79	2274.42	3390.8	2371.35	Northern America	America
+Boise, ID, United States	4060.24	6.64	1570.9	1358.89	2475.0	2031.88	4193.8	3263.51	Northern America	America
+Baltimore, MD, United States	4042.56	6.63	1739.58	1336.0	3212.5	2162.5	2112.31	1958.84	Northern America	America
+Mannheim, Germany	3999.58	3.5	764.1	652.49	1561.56	1299.83	5374.47	4430.08	Western Europe	Europe
+Abu Dhabi, United Arab Emirates	3995.16	5.2	1380.01	1009.36	2908.83	2195.8	5154.33	4571.69	Western Asia	Asia
+Copenhagen, Denmark	3988.83	4.22	1774.54	1301.14	3074.04	2086.86	7769.21	5368.1	Northern Europe	Europe
+Singapore, Singapore	3969.27	3.3	2671.45	1986.89	5664.09	3656.53	21357.71	14066.96	South-Eastern Asia	Asia
+London, United Kingdom	3955.1	5.06	2667.74	1968.54	5225.02	3354.89	19620.47	10127.89	Northern Europe	Europe
+Jacksonville, FL, United States	3937.12	6.51	1645.07	1372.31	2775.83	2099.43	3105.83	2412.93	Northern America	America
+Dubai, United Arab Emirates	3868.09	4.49	2215.02	1462.59	4345.02	2816.82	6712.23	3497.41	Western Asia	Asia
+The Hague (Den Haag), Netherlands	3858.76	4.02	1492.22	1247.85	2573.28	2008.99	5225.07	3870.1	Western Europe	Europe
+Columbus, OH, United States	3840.3	6.53	1504.08	1199.0	2868.75	2123.78	3104.05	2934.93	Northern America	America
+New Orleans, LA, United States	3825.76	6.65	1770.83	1162.5	3125.0	2179.17	2583.26	2082.74	Northern America	America
+Melbourne, Australia	3819.22	6.31	1473.2	1144.38	2680.13	1677.7	6860.51	5249.92	Oceania	Oceania
+Frankfurt, Germany	3662.69	4.02	1312.19	967.54	2337.38	1587.08	7818.41	4839.8	Western Europe	Europe
+Brisbane, Australia	3653.72	6.27	1448.09	1154.14	2395.82	1750.01	7312.01	4782.4	Oceania	Oceania
+Hong Kong, Hong Kong (China)	3619.81	4.01	2089.58	1558.4	4664.04	3203.58	26361.11	16147.45	Eastern Asia	Asia
+Reykjavik, Iceland	3600.55	9.41	1968.24	1787.68	2781.11	2418.55	6381.03	5341.56	Northern Europe	Europe
+Dublin, Ireland	3587.81	4.28	2050.27	1758.34	3635.75	3040.44	7127.94	5794.75	Northern Europe	Europe
+Tucson, AZ, United States	3587.25	6.59	1266.59	1180.44	2279.17	1934.62	2610.44	2472.64	Northern America	America
+Utrecht, Netherlands	3556.71	4.42	1572.36	1246.64	2381.84	1930.36	6002.08	4627.79	Western Europe	Europe
+Perth, Australia	3539.06	6.42	1306.36	1039.42	2218.06	1664.27	4582.98	3758.23	Oceania	Oceania
+Eindhoven, Netherlands	3499.87	4.27	1407.32	1094.95	2029.02	1678.22	5117.57	3697.83	Western Europe	Europe
+Canberra, Australia	3484.41	6.25	1644.36	1265.28	2577.91	1825.05	6749.0	5320.61	Oceania	Oceania
+Oslo, Norway	3482.26	5.02	1418.44	1158.06	2298.21	1804.83	8426.54	6226.38	Northern Europe	Europe
+Aberdeen, United Kingdom	3462.98	6.2	781.42	686.7	1427.53	1283.56	2800.94	2499.74	Northern Europe	Europe
+Munich, Germany	3420.46	3.94	1469.27	1229.7	2869.79	2219.1	12161.07	8467.13	Western Europe	Europe
+Tel Aviv-Yafo, Israel	3419.29	5.3	1697.93	1259.44	3089.52	2219.56	18662.58	13178.2	Western Asia	Asia
+Rotterdam, Netherlands	3395.7	4.09	1611.89	1301.55	2379.5	1943.05	5250.03	3809.62	Western Europe	Europe
+Edinburgh, United Kingdom	3390.59	5.79	1472.43	1077.49	2742.39	1972.84	6310.02	4247.08	Northern Europe	Europe
+Doha, Qatar	3373.38	5.81	1575.72	1042.21	2745.6	1898.99	4817.33	3586.89	Western Asia	Asia
+Stuttgart, Germany	3343.74	3.98	1148.73	913.83	2036.26	1536.28	6630.52	4760.05	Western Europe	Europe
+Auckland, New Zealand	3308.5	6.56	1196.01	1041.22	2187.25	1704.88	7547.75	6359.42	Oceania	Oceania
+Hamburg, Germany	3292.55	3.96	1159.44	808.56	2177.95	1538.35	8025.65	5435.48	Western Europe	Europe
+Stockholm, Sweden	3251.48	4.43	1505.83	965.58	2487.33	1638.75	9791.94	5325.68	Northern Europe	Europe
+Adelaide, Australia	3244.22	6.3	1219.43	961.77	1916.32	1481.73	6021.02	3650.87	Oceania	Oceania
+Glasgow, United Kingdom	3213.06	5.42	1280.52	905.02	2338.78	1508.04	3560.03	2739.99	Northern Europe	Europe
+Vancouver, Canada	3184.7	5.99	1911.2	1601.58	3262.83	2592.83	9473.55	6679.14	Northern America	America
+Dusseldorf, Germany	3179.16	3.98	1017.61	811.64	2042.32	1565.29	6562.69	5288.62	Western Europe	Europe
+Groningen, Netherlands	3169.76	3.64	1032.07	809.89	1468.11	1159.19	3377.42	3277.61	Western Europe	Europe
+Cork, Ireland	3162.04	4.45	1581.93	1328.09	2826.75	2245.09	4224.48	3754.33	Northern Europe	Europe
+Toronto, Canada	3148.49	5.97	1735.22	1442.4	2856.79	2341.76	8886.22	7168.23	Northern America	America
+Trondheim, Norway	3127.96	4.17	1149.43	960.16	2046.26	1531.97	8560.55	6050.71	Northern Europe	Europe
+Cologne, Germany	3121.59	3.98	1028.89	806.63	1974.65	1319.91	6112.82	5460.33	Western Europe	Europe
+Bergen, Norway	3111.18	4.71	1121.91	851.7	1794.7	1386.74	5582.94	3639.74	Northern Europe	Europe
+Berlin, Germany	3106.02	3.84	1267.78	933.45	2252.02	1719.46	7822.81	5772.8	Western Europe	Europe
+Manchester, United Kingdom	3084.87	6.0	1437.83	1118.85	2380.73	1714.53	5165.88	3622.46	Northern Europe	Europe
+Paris, France	3083.04	3.72	1380.01	1041.76	3142.26	2123.9	12417.13	8849.85	Western Europe	Europe
+Calgary, Canada	3081.88	6.03	1385.19	1126.17	2184.64	1798.75	3207.9	3009.0	Northern America	America
+Bristol, United Kingdom	3074.63	5.67	1647.96	1226.7	2679.16	1971.9	6512.84	5942.86	Northern Europe	Europe
+Tampere, Finland	3045.72	3.79	848.75	657.81	1466.85	1028.7	5425.98	3588.7	Northern Europe	Europe
+Wellington, New Zealand	3021.83	6.96	1163.91	1032.84	1949.23	1813.11	6700.22	5745.99	Oceania	Oceania
+Essen, Germany	3021.12	3.97	653.4	530.18	1312.54	977.8	3949.29	3331.14	Western Europe	Europe
+Ottawa, Canada	2966.02	6.22	1399.13	1224.06	2144.91	1760.75	4877.85	4469.22	Northern America	America
+Helsinki, Finland	2962.0	3.96	1074.55	844.34	1845.18	1363.24	8085.01	4801.6	Northern Europe	Europe
+Gothenburg, Sweden	2952.82	4.38	939.44	699.13	1511.06	1123.06	5559.5	3719.83	Northern Europe	Europe
+Dresden, Germany	2910.44	3.98	777.54	525.98	1485.94	1009.65	4711.33	3640.22	Western Europe	Europe
+Edmonton, Canada	2858.34	6.4	1110.43	878.42	1830.92	1472.75	2976.11	2315.11	Northern America	America
+Seoul, South Korea	2841.15	4.9	857.05	475.07	2488.01	1341.35	19215.54	10805.83	Eastern Asia	Asia
+Haarlem, Netherlands	2821.17	4.33	1498.16	1230.58	2237.93	1900.24	6583.3	5410.87	Western Europe	Europe
+Haifa, Israel	2811.07	5.55	869.27	722.06	1437.47	1202.47	6636.38	5450.94	Western Asia	Asia
+Riyadh, Saudi Arabia	2801.62	5.33	1159.04	847.73	2216.14	1138.15	2400.9	1608.02	Western Asia	Asia
+Brussels, Belgium	2797.16	3.67	1146.24	966.47	2098.57	1621.71	4550.27	4078.07	Western Europe	Europe
+Liverpool, United Kingdom	2723.28	5.76	1065.57	692.32	2070.26	1074.71	3213.53	2360.79	Northern Europe	Europe
+Montreal, Canada	2720.22	6.07	1189.29	922.35	1957.22	1458.76	6438.17	4081.01	Northern America	America
+Belfast, United Kingdom	2693.95	5.62	1082.49	841.64	1704.92	1278.69	2793.02	2226.14	Northern Europe	Europe
+Vienna, Austria	2681.27	3.66	1065.57	775.24	2119.07	1451.18	10106.26	6227.76	Western Europe	Europe
+Lyon, France	2669.77	3.76	931.9	649.83	1870.76	1152.59	6230.95	4017.63	Western Europe	Europe
+Toulouse, France	2665.56	3.71	770.97	596.07	1536.79	1081.76	4472.57	3171.5	Western Europe	Europe
+Leipzig, Germany	2622.57	3.98	738.76	526.16	1400.0	985.61	4138.17	2513.81	Western Europe	Europe
+Graz, Austria	2573.57	3.82	746.93	625.06	1311.85	1144.01	5563.35	3894.35	Western Europe	Europe
+Limassol, Cyprus	2486.64	4.41	1440.57	1119.41	2489.77	1927.76	4976.11	4292.71	Western Asia	Asia
+Antwerp, Belgium	2483.66	3.45	928.26	777.37	1468.11	1156.17	4315.28	3244.05	Western Europe	Europe
+Quebec City, Canada	2481.38	7.02	877.44	809.62	1374.91	1104.17	8195.0	3365.35	Northern America	America
+Victoria, Canada	2452.16	6.5	1455.47	1276.7	2736.24	2345.65	6459.61	6534.26	Northern America	America
+Tokyo, Japan	2432.63	1.78	1064.01	582.01	2655.23	1239.17	9843.66	4902.82	Eastern Asia	Asia
+Strasbourg, France	2353.12	3.65	669.66	588.14	1420.27	921.22	4515.93	3090.75	Western Europe	Europe
+Jeddah (Jiddah), Saudi Arabia	2331.86	4.85	469.73	399.46	918.71	660.04	2097.92	1015.83	Western Asia	Asia
+Madrid, Spain	2248.58	3.58	1404.93	991.83	2346.29	1575.42	6611.08	3894.16	Southern Europe	Europe
+Milan, Italy	2074.26	3.38	1440.72	998.57	3046.6	1980.06	8963.01	4598.34	Southern Europe	Europe
+Barcelona, Spain	1944.65	3.43	1339.39	1015.93	2254.28	1536.62	5730.68	3981.0	Southern Europe	Europe
+Seville (Sevilla), Spain	1939.52	3.44	940.1	658.22	1422.89	895.03	3482.25	2043.33	Southern Europe	Europe
+Valencia, Spain	1892.3	3.56	1097.09	843.92	1763.31	1208.56	3279.76	2183.52	Southern Europe	Europe
+Rome, Italy	1845.88	4.29	1170.84	766.77	2321.98	1365.08	6899.24	3399.83	Southern Europe	Europe
+Bologna, Italy	1821.4	4.22	992.18	752.73	1761.72	1254.48	4481.59	3111.36	Southern Europe	Europe
+Prague, Czech Republic	1803.96	5.32	1041.79	786.56	1960.67	1369.74	7322.13	5122.33	Eastern Europe	Europe
+Warsaw, Poland	1782.28	7.43	1015.25	785.69	1905.16	1318.08	5787.32	3869.96	Eastern Europe	Europe
+Padova, Italy	1777.18	4.63	886.81	666.92	1774.32	1109.5	3983.63	2223.62	Southern Europe	Europe
+Turin, Italy	1772.31	4.15	705.35	500.7	1250.17	880.4	3748.97	1954.76	Southern Europe	Europe
+Muscat, Oman	1756.7	5.09	662.47	405.86	1191.76	708.9	1677.99	1308.65	Western Asia	Asia
+Krakow (Cracow), Poland	1754.72	7.74	812.81	640.65	1455.56	1051.13	5051.09	3481.5	Eastern Europe	Europe
+Taipei, Taiwan	1736.05	2.14	651.89	500.49	1537.14	1054.83	12872.01	6888.41	Eastern Asia	Asia
+Shanghai, China	1728.58	3.9	918.09	512.92	2479.96	1177.47	15569.2	7949.94	Eastern Asia	Asia
+Shenzhen, China	1709.22	4.34	742.89	402.73	1648.15	903.43	12533.75	6468.28	Eastern Asia	Asia
+Genoa, Italy	1673.22	4.65	789.86	553.76	1251.02	858.54	3296.8	1553.96	Southern Europe	Europe
+Tallinn, Estonia	1656.8	5.41	724.95	529.55	1245.18	929.6	4717.31	3201.2	Northern Europe	Europe
+Ljubljana, Slovenia	1637.25	3.99	928.83	769.14	1802.94	1296.4	5272.41	4036.01	Southern Europe	Europe
+Pretoria, South Africa	1613.61	11.52	385.93	352.63	690.65	682.5	739.23	693.61	Southern Africa	Africa
+Vilnius, Lithuania	1600.57	4.45	750.15	550.5	1325.47	903.93	5258.23	3271.73	Northern Europe	Europe
+Plzen, Czech Republic	1565.12	5.68	566.42	514.97	750.28	705.02	3980.48	2996.32	Eastern Europe	Europe
+Gdansk, Poland	1563.59	7.08	787.22	637.69	1187.56	893.8	4753.63	3036.64	Eastern Europe	Europe
+Zagreb, Croatia	1561.48	4.08	721.18	575.31	1221.58	907.53	4263.65	2945.46	Southern Europe	Europe
+Beijing, China	1541.14	3.85	917.85	503.04	2049.91	1100.34	14594.48	6831.31	Eastern Asia	Asia
+Nicosia, Cyprus	1517.75	4.53	674.0	554.4	1316.9	1054.29	2665.77	1957.48	Western Asia	Asia
+Brno, Czech Republic	1513.78	5.62	772.65	644.55	1213.72	967.3	4890.98	3947.67	Eastern Europe	Europe
+Poznan, Poland	1464.6	7.0	668.94	576.64	1077.08	888.9	3030.58	2338.11	Eastern Europe	Europe
+Bratislava, Slovakia	1450.87	4.37	774.34	603.73	1306.36	984.75	5174.2	3713.08	Eastern Europe	Europe
+Cape Town, South Africa	1450.32	11.78	746.97	494.79	1503.14	1002.74	1810.74	1205.24	Southern Africa	Africa
+Wroclaw, Poland	1418.34	7.26	813.26	636.69	1303.74	1027.54	4109.82	2856.2	Eastern Europe	Europe
+Larnaca, Cyprus	1398.16	3.74	907.41	681.55	1473.26	1170.19	3055.72	2248.01	Western Asia	Asia
+Kuala Lumpur, Malaysia	1394.48	4.57	472.19	341.52	993.81	578.31	2992.76	1378.0	South-Eastern Asia	Asia
+Sofia, Bulgaria	1383.21	3.15	576.16	434.52	1110.26	745.67	3134.36	2089.95	Eastern Europe	Europe
+Johannesburg, South Africa	1378.3	11.53	395.65	336.9	825.03	640.26	1070.69	686.54	Southern Africa	Africa
+Katowice, Poland	1370.31	7.05	577.01	435.53	899.18	699.9	2598.41	1983.48	Eastern Europe	Europe
+Kaunas, Lithuania	1325.48	4.31	575.57	435.51	998.05	704.0	3296.8	2163.53	Northern Europe	Europe
+Moscow, Russia	1314.05	22.22	1007.61	602.13	1979.39	1013.37	6320.39	3121.24	Eastern Europe	Europe
+Lodz, Poland	1288.0	6.59	539.75	418.33	967.16	693.22	2329.09	1803.17	Eastern Europe	Europe
+Riga, Latvia	1277.35	4.54	489.88	343.69	915.96	599.61	2723.49	1738.04	Northern Europe	Europe
+Gurgaon, India	1270.36	8.87	289.71	179.6	718.22	455.57	2594.94	1573.33	Southern Asia	Asia
+Naples, Italy	1265.92	4.75	817.76	556.98	1648.4	981.77	4893.69	2678.65	Southern Europe	Europe
+Pune, India	1235.24	9.18	255.87	177.48	561.07	353.3	2007.99	1178.09	Southern Asia	Asia
+Lisbon, Portugal	1225.4	4.34	1433.65	1097.84	2625.51	1769.69	6669.17	3728.04	Southern Europe	Europe
+Guangzhou, China	1213.95	4.24	535.57	293.52	1139.08	656.34	9790.09	4084.46	Eastern Asia	Asia
+Split, Croatia	1203.85	4.06	828.16	586.31	1397.02	1007.85	5580.46	3739.34	Southern Europe	Europe
+Bucharest, Romania	1203.16	7.02	586.28	391.16	1061.25	727.38	2935.83	1738.68	Eastern Europe	Europe
+Cluj-Napoca, Romania	1184.71	6.06	581.81	418.78	1033.47	743.63	3497.5	2526.09	Eastern Europe	Europe
+Budapest, Hungary	1158.99	7.04	621.31	455.96	1064.22	786.49	3824.62	2468.89	Eastern Europe	Europe
+Porto, Portugal	1145.43	3.79	1080.54	858.56	1910.12	1424.57	4013.56	2946.44	Southern Europe	Europe
+Hangzhou, China	1125.74	4.04	511.33	279.37	1122.95	658.31	8144.4	4336.33	Eastern Asia	Asia
+Bangalore, India	1112.36	9.39	311.54	172.0	823.5	448.35	2142.88	1120.43	Southern Asia	Asia
+Durban, South Africa	1054.1	11.98	337.8	317.88	661.93	536.51	1043.29	1090.55	Southern Africa	Africa
+Athens, Greece	1053.95	4.93	596.08	525.74	1044.97	930.12	3230.76	3007.55	Southern Europe	Europe
+Timisoara, Romania	1045.13	6.86	402.23	312.79	625.51	489.09	2109.94	1439.7	Eastern Europe	Europe
+Montevideo, Uruguay	1032.9	5.47	552.38	403.75	927.58	717.19	2726.49	2558.73	South America	America
+Suzhou, China	993.46	4.02	428.14	221.37	1082.15	522.44	6006.83	3344.71	Eastern Asia	Asia
+Hyderabad, India	992.87	9.12	228.25	129.17	595.45	324.3	1292.26	791.55	Southern Asia	Asia
+Thessaloniki, Greece	973.59	4.69	511.0	415.09	833.21	664.51	3131.96	2167.65	Southern Europe	Europe
+Panama City, Panama	970.42	6.32	1072.92	829.41	2130.64	1706.25	2568.18	1628.57	Central America	America
+Monterrey, Mexico	958.09	11.54	898.82	598.96	1458.96	1170.26	2699.63	2976.03	Central America	America
+Noida, India	933.35	8.89	192.09	131.61	467.46	310.11	1668.3	693.96	Southern Asia	Asia
+Belgrade, Serbia	933.32	5.74	778.69	496.51	1390.33	896.64	4156.94	2595.42	Southern Europe	Europe
+Plovdiv, Bulgaria	907.61	4.51	396.17	286.22	686.14	505.14	1834.77	1226.92	Eastern Europe	Europe
+Istanbul, Turkey	906.89	48.61	945.36	582.92	1708.96	1006.76	3372.21	1697.39	Western Asia	Asia
+Mumbai, India	896.58	9.04	659.13	353.82	1798.23	908.28	6792.27	3201.42	Southern Asia	Asia
+Varna, Bulgaria	891.39	4.76	439.89	338.74	828.37	582.09	2211.56	1417.9	Eastern Europe	Europe
+Brasov, Romania	891.19	7.87	521.23	368.76	852.12	601.86	2563.54	1865.18	Eastern Europe	Europe
+Podgorica, Montenegro	880.78	6.09	563.34	438.53	1008.3	749.14	2282.82	1838.18	Southern Europe	Europe
+Sibiu, Romania	870.48	6.66	359.27	302.75	594.28	489.75	1806.45	1538.83	Eastern Europe	Europe
+Debrecen, Hungary	865.87	8.16	445.09	359.87	728.96	630.86	2134.89	1699.62	Eastern Europe	Europe
+Iasi, Romania	849.74	7.37	415.84	301.87	639.42	467.16	2139.38	1428.0	Eastern Europe	Europe
+Chengdu, China	839.42	4.42	309.44	166.3	599.71	303.49	3835.17	1982.84	Eastern Asia	Asia
+Burgas, Bulgaria	838.14	4.81	425.48	314.78	765.39	514.48	2041.53	1287.46	Eastern Europe	Europe
+Novi Sad, Serbia	833.93	7.1	500.96	389.6	1021.67	708.66	3027.3	2148.2	Southern Europe	Europe
+Delhi, India	814.33	8.82	256.75	150.66	661.78	383.68	2136.45	1199.39	Southern Asia	Asia
+Chennai, India	812.41	9.23	198.19	112.39	473.24	248.62	1894.68	760.24	Southern Asia	Asia
+Bursa, Turkey	797.92	40.44	433.59	295.05	735.95	545.63	1168.35	952.42	Western Asia	Asia
+Saint Petersburg, Russia	791.85	20.67	583.86	348.15	1072.12	649.78	2954.72	2033.63	Eastern Europe	Europe
+Sarajevo, Bosnia And Herzegovina	773.03	3.67	358.19	254.95	652.17	446.48	2853.33	1838.84	Southern Europe	Europe
+Ankara, Turkey	756.05	45.17	655.38	441.62	1043.55	711.9	1631.65	1117.86	Western Asia	Asia
+Constanta, Romania	738.64	6.86	514.23	407.1	855.6	680.36	1860.2	1371.03	Eastern Europe	Europe
+Bangkok, Thailand	731.63	6.1	588.42	304.94	1690.7	805.85	5686.42	2559.96	South-Eastern Asia	Asia
+Santiago, Chile	725.85	5.3	483.21	423.92	916.15	810.06	2539.37	2748.23	South America	America
+Mexico City, Mexico	722.12	11.36	921.87	556.45	1905.0	1180.31	2927.01	2158.94	Central America	America
+Oradea, Romania	714.72	7.0	378.92	268.06	513.69	393.42	1899.43	1529.36	Eastern Europe	Europe
+Banja Luka, Bosnia And Herzegovina	695.9	5.02	360.82	259.16	509.19	374.58	2482.75	1734.77	Southern Europe	Europe
+Amman, Jordan	695.33	7.23	460.94	292.92	757.11	508.56	1317.82	823.97	Western Asia	Asia
+Tirana, Albania	689.21	5.73	594.33	396.78	1131.94	705.52	2976.09	1503.89	Southern Europe	Europe
+Minsk, Belarus	688.1	14.47	479.8	306.46	822.86	514.81	1860.63	1198.5	Eastern Europe	Europe
+Skopje, North Macedonia	681.14	4.81	364.98	264.02	559.38	401.62	2196.62	1535.06	Southern Europe	Europe
+Izmir, Turkey	677.94	31.31	585.61	394.57	950.62	650.52	1723.19	1024.36	Western Asia	Asia
+Nis, Serbia	663.95	7.33	352.19	237.01	524.58	365.7	2082.87	1482.53	Southern Europe	Europe
+Guadalajara, Mexico	656.0	11.21	607.55	400.81	1189.08	770.83	2342.35	1577.6	Central America	America
+Rabat, Morocco	652.74	4.88	385.7	223.65	1047.34	633.04	1595.8	923.21	Northern Africa	Africa
+Almaty, Kazakhstan	632.84	17.87	601.89	390.03	1083.58	742.02	1652.19	1073.09	Central Asia	Asia
+Chisinau, Moldova	612.93	9.69	575.6	406.43	1068.1	743.96	1796.51	1306.61	Eastern Europe	Europe
+Quito, Ecuador	606.25	11.06	476.79	379.55	802.5	580.45	1666.67	1250.0	South America	America
+Kazan, Russia	590.23	14.46	397.15	268.91	706.97	465.31	2295.37	1574.7	Eastern Europe	Europe
+Antalya, Turkey	577.1	22.38	625.29	459.76	973.26	664.05	1996.92	1351.11	Western Asia	Asia
+Yekaterinburg, Russia	574.26	13.93	404.61	260.24	788.65	506.59	1838.73	1139.42	Eastern Europe	Europe
+Buenos Aires, Argentina	574.18	65.58	589.26	407.35	1048.57	739.55	2638.12	1974.09	South America	America
+Tbilisi, Georgia	564.64	11.49	688.03	473.46	1370.38	767.48	1988.04	1074.31	Western Asia	Asia
+Kiev (Kyiv), Ukraine	554.0	18.91	565.18	347.59	1127.32	625.51	2232.39	1255.47	Eastern Europe	Europe
+Beirut, Lebanon	550.0	11.05	791.18	380.0	1746.15	826.92	2950.0	1400.0	Western Asia	Asia
+Florianopolis, Brazil	547.19	11.19	423.15	310.25	769.59	631.04	1872.82	1442.99	South America	America
+Yerevan, Armenia	539.97	15.1	833.46	592.23	1434.8	886.04	3263.72	1546.95	Western Asia	Asia
+Rostov-on-Don (Rostov-na-donu), Russia	539.2	14.31	321.15	206.76	552.87	364.24	1223.9	993.94	Eastern Europe	Europe
+Campinas, Brazil	538.44	11.43	319.3	229.24	720.47	566.96	1637.43	1183.63	South America	America
+Manila, Philippines	537.45	6.92	475.76	257.49	1757.67	748.61	3188.0	2783.8	South-Eastern Asia	Asia
+Sao Paulo, Brazil	535.53	11.36	546.97	364.85	1038.69	669.01	2299.63	1513.36	South America	America
+Jakarta, Indonesia	535.53	9.45	401.74	247.68	1198.87	660.8	1713.6	791.24	South-Eastern Asia	Asia
+Pristina, Kosovo (Disputed Territory)	534.15	4.25	326.25	240.13	535.73	399.22	2060.5	1224.85	Southern Europe	Europe
+Novosibirsk, Russia	533.14	13.29	331.51	221.44	602.87	397.04	1711.66	1039.42	Eastern Europe	Europe
+Nizhny Novgorod, Russia	532.24	14.49	336.34	226.57	631.3	393.13	1973.72	1286.05	Eastern Europe	Europe
+Astana (Nur-Sultan), Kazakhstan	513.04	15.91	458.31	314.08	773.36	543.07	1048.12	680.78	Central Asia	Asia
+Krasnodar, Russia	508.85	12.09	325.45	216.89	639.05	422.46	2061.88	1136.63	Eastern Europe	Europe
+Tashkent, Uzbekistan	503.89	22.52	670.88	422.93	1238.87	763.0	1690.7	954.16	Central Asia	Asia
+Casablanca, Morocco	501.92	5.19	519.17	282.07	958.22	462.11	1965.27	998.39	Northern Africa	Africa
+Batumi, Ajara, Georgia	495.13	12.39	507.95	358.04	904.88	653.3	1227.1	849.99		
+Ho Chi Minh City, Vietnam	486.25	9.49	499.12	306.8	1102.26	630.19	4130.97	2082.12	South-Eastern Asia	Asia
+Baku, Azerbaijan	485.61	9.13	457.79	254.01	938.24	418.2	2038.46	1018.1	Western Asia	Asia
+Ufa, Russia	482.22	16.1	259.88	177.39	453.14	271.96	1743.98	1135.01	Eastern Europe	Europe
+Ahmedabad, India	470.43	8.93	163.58	135.15	374.02	240.73	879.49	687.15	Southern Asia	Asia
+Lima, Peru	462.66	10.17	575.45	327.14	954.14	599.63	1398.9	1246.34	South America	America
+Chelyabinsk, Russia	459.61	12.61	259.63	194.65	506.12	364.89	1071.43	731.73	Eastern Europe	Europe
+Guatemala City, Guatemala	455.38	8.95	665.56	404.88	1347.04	729.78	1627.13	997.08	Central America	America
+Hanoi, Vietnam	455.02	10.5	338.77	245.75	815.07	602.37	2989.42	1638.32	South-Eastern Asia	Asia
+Kaliningrad, Russia	450.83	13.62	339.14	273.46	567.1	387.01	1672.94	1033.5	Eastern Europe	Europe
+Kolkata, India	444.18	9.18	149.61	83.12	316.61	179.21	1102.71	527.22	Southern Asia	Asia
+Porto Alegre, Brazil	425.98	11.45	271.81	246.27	584.36	491.23	1241.72	1198.06	South America	America
+Curitiba, Brazil	425.48	10.96	313.84	217.41	564.88	443.7	1707.94	1160.84	South America	America
+Brasilia, Brazil	412.53	11.88	358.46	224.95	880.44	523.98	2150.5	1322.54	South America	America
+Medellin, Colombia	407.32	14.06	447.84	335.45	792.36	653.72	1606.68	1362.47	South America	America
+Ulaanbaatar, Mongolia	404.81	6.33	559.15	428.82	1380.13	812.24	1752.66	971.16	Eastern Asia	Asia
+Odessa (Odesa), Ukraine	400.04	22.6	237.13	158.09	468.94	295.61	1275.13	872.82	Eastern Europe	Europe
+Nairobi, Kenya	393.76	14.84	459.49	175.57	1094.1	415.38	1701.31	1003.99	Eastern Africa	Africa
+Belo Horizonte, Brazil	384.14	10.38	363.01	247.66	628.47	405.22	1274.47	802.34	South America	America
+Bishkek, Kyrgyzstan	380.14	18.9	468.75	350.17	853.3	600.56	1246.79	863.26	Central Asia	Asia
+Coimbatore, India	375.15	9.3	138.49	94.2	320.08	209.25	1104.18	509.71	Southern Asia	Asia
+Phnom Penh, Cambodia	370.05	10.3	522.86	281.63	1016.95	600.71	2316.57	1492.5	South-Eastern Asia	Asia
+Bogota, Colombia	354.95	13.44	405.27	303.09	730.32	607.64	1754.96	1285.62	South America	America
+Tunis, Tunisia	349.96	11.0	246.13	167.91	412.49	267.61	1074.76	713.37	Northern Africa	Africa
+Rio de Janeiro, Brazil	327.93	10.56	390.86	284.21	843.28	566.01	1753.36	1082.93	South America	America
+Algiers, Algeria	311.51	6.06	215.86	131.57	374.68	242.49	1820.89	1051.56	Northern Africa	Africa
+Dhaka, Bangladesh	276.76	10.46	114.57	62.97	299.6	175.64	964.33	526.25	Southern Asia	Asia
+Tehran, Iran	263.06	24.5	486.32	336.53	998.65	695.92	2038.89	1369.21	Southern Asia	Asia
+Kathmandu, Nepal	233.81	12.84	177.39	95.63	292.47	186.37	2265.64	1167.39	Southern Asia	Asia
+Caracas, Venezuela	230.62	22.0	390.91	358.33	822.73	750.0	880.0	835.84	South America	America
+Colombo, Sri Lanka	227.77	18.27	314.25	168.62	985.02	393.45	1827.11	1541.0	Southern Asia	Asia
+Addis Ababa, Ethiopia	212.33	16.43	686.45	403.55	1776.0	809.48	2575.16	1806.81	Eastern Africa	Africa
+Karachi, Pakistan	176.93	19.66	117.18	75.44	286.53	169.03	549.94	343.04	Southern Asia	Asia
+Lahore, Pakistan	172.03	19.83	114.94	75.09	287.12	190.12	628.49	585.92	Southern Asia	Asia
+Cairo, Egypt	161.32	14.81	203.23	129.65	411.99	272.52	673.76	459.09	Northern Africa	Africa
+Alexandria, Egypt	112.02	17.0	108.22	60.62	222.22	130.07	588.28	367.06	Northern Africa	Africa

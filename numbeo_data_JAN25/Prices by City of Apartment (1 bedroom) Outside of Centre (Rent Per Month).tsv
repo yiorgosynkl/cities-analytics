@@ -1,0 +1,342 @@
+Rank	City	Apartment (1 bedroom) Outside of Centre (in USD)
+1	New York, NY, United States	2942.81
+2	San Francisco, CA, United States	2830.43
+3	Boston, MA, United States	2472.41
+4	Brooklyn, NY, United States	2403.12
+5	San Diego, CA, United States	2373.44
+6	Miami, FL, United States	2067.56
+7	Los Angeles, CA, United States	2067.27
+8	Washington, DC, United States	2066.26
+9	Singapore, Singapore	1986.89
+10	Zurich, Switzerland	1979.89
+11	London, United Kingdom	1968.54
+12	Honolulu, HI, United States	1873.08
+13	Geneva, Switzerland	1857.12
+14	Seattle, WA, United States	1844.44
+15	Reykjavik, Iceland	1787.68
+16	Sacramento, CA, United States	1779.92
+17	Dublin, Ireland	1758.34
+18	Amsterdam, Netherlands	1704.39
+19	Denver, CO, United States	1701.08
+20	Orlando, FL, United States	1690.21
+21	Charlotte, NC, United States	1636.67
+22	Vancouver, Canada	1601.58
+23	Nashville, TN, United States	1593.46
+24	Luxembourg, Luxembourg	1586.92
+25	Raleigh, NC, United States	1560.71
+26	Hong Kong, Hong Kong (China)	1558.40
+27	Atlanta, GA, United States	1548.18
+28	Mississauga, Canada	1538.36
+29	Chicago, IL, United States	1532.88
+30	Portland, OR, United States	1517.68
+31	Austin, TX, United States	1507.79
+32	Tampa, FL, United States	1503.21
+33	Dallas, TX, United States	1483.91
+34	Dubai, United Arab Emirates	1462.59
+35	Brighton, United Kingdom	1443.09
+36	Toronto, Canada	1442.40
+37	Sydney, Australia	1387.26
+38	Phoenix, AZ, United States	1376.70
+39	Jacksonville, FL, United States	1372.31
+40	Las Vegas, NV, United States	1370.11
+41	Madison, WI, United States	1359.23
+42	Salt Lake City, UT, United States	1358.93
+43	Boise, ID, United States	1358.89
+44	Philadelphia, PA, United States	1347.92
+45	Baltimore, MD, United States	1336.00
+46	Lausanne, Switzerland	1332.70
+47	Cork, Ireland	1328.09
+48	Rotterdam, Netherlands	1301.55
+49	Copenhagen, Denmark	1301.14
+50	Basel, Switzerland	1299.32
+51	Surrey, Canada	1293.95
+52	Victoria, Canada	1276.70
+53	Canberra, Australia	1265.28
+54	Tel Aviv-Yafo, Israel	1259.44
+55	The Hague (Den Haag), Netherlands	1247.85
+56	Utrecht, Netherlands	1246.64
+57	Haarlem, Netherlands	1230.58
+58	Munich, Germany	1229.70
+59	Bristol, United Kingdom	1226.70
+60	Ottawa, Canada	1224.06
+61	Christchurch, New Zealand	1205.90
+62	Minneapolis, MN, United States	1202.60
+63	London, Canada	1202.02
+64	Columbus, OH, United States	1199.00
+65	Houston, TX, United States	1196.71
+66	Tucson, AZ, United States	1180.44
+67	San Antonio, TX, United States	1165.40
+68	New Orleans, LA, United States	1162.50
+69	Oslo, Norway	1158.06
+70	Brisbane, Australia	1154.14
+71	Halifax, Canada	1150.55
+72	Melbourne, Australia	1144.38
+73	Calgary, Canada	1126.17
+74	Indianapolis, IN, United States	1126.11
+75	Limassol, Cyprus	1119.41
+76	Manchester, United Kingdom	1118.85
+77	Pittsburgh, PA, United States	1115.00
+78	Kelowna, Canada	1111.19
+79	Lisbon, Portugal	1097.84
+80	Eindhoven, Netherlands	1094.95
+81	Jerusalem, Israel	1086.59
+82	Saint Louis, MO, United States	1086.11
+83	Edinburgh, United Kingdom	1077.49
+84	Cincinnati, OH, United States	1058.94
+85	Doha, Qatar	1042.21
+86	Paris, France	1041.76
+87	Auckland, New Zealand	1041.22
+88	Perth, Australia	1039.42
+89	Wellington, New Zealand	1032.84
+90	Barcelona, Spain	1015.93
+91	Abu Dhabi, United Arab Emirates	1009.36
+92	Milan, Italy	998.57
+93	Madrid, Spain	991.83
+94	Sliema, Malta	978.74
+95	Frankfurt, Germany	967.54
+96	Brussels, Belgium	966.47
+97	Birmingham, United Kingdom	965.94
+98	Stockholm, Sweden	965.58
+99	Maastricht, Netherlands	963.28
+100	Adelaide, Australia	961.77
+101	Trondheim, Norway	960.16
+102	Winnipeg, Canada	943.85
+103	Bern, Switzerland	938.40
+104	Berlin, Germany	933.45
+105	Montreal, Canada	922.35
+106	Stuttgart, Germany	913.83
+107	Glasgow, United Kingdom	905.02
+108	Leeds, United Kingdom	890.65
+109	Edmonton, Canada	878.42
+110	Aarhus, Denmark	865.96
+111	Porto, Portugal	858.56
+112	Bergen, Norway	851.70
+113	Riyadh, Saudi Arabia	847.73
+114	Helsinki, Finland	844.34
+115	Valencia, Spain	843.92
+116	Belfast, United Kingdom	841.64
+117	Sheffield, United Kingdom	835.55
+118	Karlsruhe, Germany	834.50
+119	Panama City, Panama	829.41
+120	Dusseldorf, Germany	811.64
+121	Groningen, Netherlands	809.89
+122	Quebec City, Canada	809.62
+123	Hamburg, Germany	808.56
+124	Cologne, Germany	806.63
+125	Malaga, Spain	793.98
+126	Prague, Czech Republic	786.56
+127	Sharjah, United Arab Emirates	786.30
+128	Warsaw, Poland	785.69
+129	Antwerp, Belgium	777.37
+130	Vienna, Austria	775.24
+131	Saskatoon, Canada	774.07
+132	Ljubljana, Slovenia	769.14
+133	Rome, Italy	766.77
+134	Bologna, Italy	752.73
+135	Gent, Belgium	748.22
+136	Regina, Canada	736.11
+137	Haifa, Israel	722.06
+138	Malmo, Sweden	707.80
+139	Gothenburg, Sweden	699.13
+140	Liverpool, United Kingdom	692.32
+141	Aberdeen, United Kingdom	686.70
+142	Larnaca, Cyprus	681.55
+143	Padova, Italy	666.92
+144	Nuremberg, Germany	666.14
+145	Kuwait City, Kuwait	665.24
+146	Seville (Sevilla), Spain	658.22
+147	Tampere, Finland	657.81
+148	Mannheim, Germany	652.49
+149	Lyon, France	649.83
+150	Hanover, Germany	649.68
+151	Brno, Czech Republic	644.55
+152	Montpellier, France	643.17
+153	Krakow (Cracow), Poland	640.65
+154	Puerto Vallarta, Mexico	638.39
+155	Gdansk, Poland	637.69
+156	Wroclaw, Poland	636.69
+157	Graz, Austria	625.06
+158	Bratislava, Slovakia	603.73
+159	Moscow, Russia	602.13
+160	Monterrey, Mexico	598.96
+161	Braga, Portugal	596.69
+162	Toulouse, France	596.07
+163	Verona, Italy	595.26
+164	Yerevan, Armenia	592.23
+165	Strasbourg, France	588.14
+166	Split, Croatia	586.31
+167	Istanbul, Turkey	582.92
+168	Tokyo, Japan	582.01
+169	Poznan, Poland	576.64
+170	Zagreb, Croatia	575.31
+171	Manama, Bahrain	566.25
+172	Naples, Italy	556.98
+173	Mexico City, Mexico	556.45
+174	Nicosia, Cyprus	554.40
+175	Genoa, Italy	553.76
+176	Surat, India	551.89
+177	Vilnius, Lithuania	550.50
+178	Bremen, Germany	531.61
+179	Essen, Germany	530.18
+180	Tallinn, Estonia	529.55
+181	Leipzig, Germany	526.16
+182	Dresden, Germany	525.98
+183	Athens, Greece	525.74
+184	Aachen, Germany	523.37
+185	Kosice, Slovakia	521.56
+186	San Jose, Costa Rica	520.59
+187	Plzen, Czech Republic	514.97
+188	Szczecin, Poland	513.47
+189	Shanghai, China	512.92
+190	Beijing, China	503.04
+191	Lagos, Nigeria	500.99
+192	Turin, Italy	500.70
+193	Taipei, Taiwan	500.49
+194	Belgrade, Serbia	496.51
+195	Cape Town, South Africa	494.79
+196	Alanya, Turkey	484.46
+197	Seoul, South Korea	475.07
+198	Tbilisi, Georgia	473.46
+199	Phuket, Thailand	466.91
+200	Antalya, Turkey	459.76
+201	Port of Spain, Trinidad And Tobago	456.44
+202	Budapest, Hungary	455.96
+203	Ankara, Turkey	441.62
+204	Podgorica, Montenegro	438.53
+205	Katowice, Poland	435.53
+206	Kaunas, Lithuania	435.51
+207	Sofia, Bulgaria	434.52
+208	Ulaanbaatar, Mongolia	428.82
+209	Queretaro (Santiago de Querétaro), Mexico	428.58
+210	Santiago, Chile	423.92
+211	Tashkent, Uzbekistan	422.93
+212	Cluj-Napoca, Romania	418.78
+213	Lodz, Poland	418.33
+214	Thessaloniki, Greece	415.09
+215	Merida, Mexico	414.84
+216	Buenos Aires, Argentina	407.35
+217	Constanta, Romania	407.10
+218	Chisinau, Moldova	406.43
+219	Muscat, Oman	405.86
+220	Guatemala City, Guatemala	404.88
+221	Montevideo, Uruguay	403.75
+222	Addis Ababa, Ethiopia	403.55
+223	Shenzhen, China	402.73
+224	Guadalajara, Mexico	400.81
+225	Jeddah (Jiddah), Saudi Arabia	399.46
+226	Tirana, Albania	396.78
+227	Izmir, Turkey	394.57
+228	Bucharest, Romania	391.16
+229	Almaty, Kazakhstan	390.03
+230	Novi Sad, Serbia	389.60
+231	Beirut, Lebanon	380.00
+232	Quito, Ecuador	379.55
+233	Ad Dammam, Saudi Arabia	378.84
+234	Brasov, Romania	368.76
+235	Sao Paulo, Brazil	364.85
+236	Debrecen, Hungary	359.87
+237	Caracas, Venezuela	358.33
+238	Batumi, Ajara, Georgia	358.04
+239	Mumbai, India	353.82
+240	Pretoria, South Africa	352.63
+241	Bishkek, Kyrgyzstan	350.17
+242	Saint Petersburg, Russia	348.15
+243	Kiev (Kyiv), Ukraine	347.59
+244	Riga, Latvia	343.69
+245	Kuala Lumpur, Malaysia	341.52
+246	Varna, Bulgaria	338.74
+247	Asuncion, Paraguay	338.41
+248	Johannesburg, South Africa	336.90
+249	Tehran, Iran	336.53
+250	Medellin, Colombia	335.45
+251	Lviv, Ukraine	331.29
+252	Lima, Peru	327.14
+253	Pattaya, Thailand	323.71
+254	Durban, South Africa	317.88
+255	Burgas, Bulgaria	314.78
+256	Astana (Nur-Sultan), Kazakhstan	314.08
+257	Cuenca, Ecuador	313.12
+258	Timisoara, Romania	312.79
+259	Florianopolis, Brazil	310.25
+260	Ho Chi Minh City, Vietnam	306.80
+261	Minsk, Belarus	306.46
+262	Bangkok, Thailand	304.94
+263	Bogota, Colombia	303.09
+264	Sibiu, Romania	302.75
+265	Iasi, Romania	301.87
+266	Erbil (Irbil), Iraq	299.78
+267	Bursa, Turkey	295.05
+268	Baghdad, Iraq	293.65
+269	Guangzhou, China	293.52
+270	Amman, Jordan	292.92
+271	Plovdiv, Bulgaria	286.22
+272	Rio de Janeiro, Brazil	284.21
+273	Dnipro, Ukraine	283.61
+274	Dar es Salaam, Tanzania	283.38
+275	Casablanca, Morocco	282.07
+276	Phnom Penh, Cambodia	281.63
+277	Hangzhou, China	279.37
+278	Kaliningrad, Russia	273.46
+279	Harare, Zimbabwe	270.83
+280	Kazan, Russia	268.91
+281	Oradea, Romania	268.06
+282	Skopje, North Macedonia	264.02
+283	Yekaterinburg, Russia	260.24
+284	Banja Luka, Bosnia And Herzegovina	259.16
+285	Manila, Philippines	257.49
+286	Sarajevo, Bosnia And Herzegovina	254.95
+287	Baku, Azerbaijan	254.01
+288	Jakarta, Indonesia	247.68
+289	Belo Horizonte, Brazil	247.66
+290	Porto Alegre, Brazil	246.27
+291	Hanoi, Vietnam	245.75
+292	Pristina, Kosovo (Disputed Territory)	240.13
+293	Nis, Serbia	237.01
+294	Marrakech, Morocco	235.09
+295	Chiang Mai, Thailand	229.87
+296	Campinas, Brazil	229.24
+297	Perm, Russia	227.19
+298	Nizhny Novgorod, Russia	226.57
+299	Brasilia, Brazil	224.95
+300	Rabat, Morocco	223.65
+301	Kampala, Uganda	222.71
+302	Novosibirsk, Russia	221.44
+303	Suzhou, China	221.37
+304	Curitiba, Brazil	217.41
+305	Krasnodar, Russia	216.89
+306	Rostov-on-Don (Rostov-na-donu), Russia	206.76
+307	Chelyabinsk, Russia	194.65
+308	Recife, Brazil	181.14
+309	Gurgaon, India	179.60
+310	Pune, India	177.48
+311	Ufa, Russia	177.39
+312	Nairobi, Kenya	175.57
+313	Bangalore, India	172.00
+314	Colombo, Sri Lanka	168.62
+315	Tunis, Tunisia	167.91
+316	Chengdu, China	166.30
+317	Odessa (Odesa), Ukraine	158.09
+318	Kharkiv, Ukraine	152.23
+319	Delhi, India	150.66
+320	Ahmedabad, India	135.15
+321	Noida, India	131.61
+322	Algiers, Algeria	131.57
+323	Cairo, Egypt	129.65
+324	Hyderabad, India	129.17
+325	Accra, Ghana	116.75
+326	Tripoli, Libya	116.27
+327	Chennai, India	112.39
+328	Islamabad, Pakistan	106.45
+329	Chandigarh, India	103.95
+330	Kochi, India	103.31
+331	Kathmandu, Nepal	95.63
+332	Coimbatore, India	94.20
+333	Lucknow (Lakhnau), India	84.46
+334	Bhubaneswar, India	83.74
+335	Kolkata, India	83.12
+336	Vadodara, India	81.49
+337	Jaipur, India	80.93
+338	Karachi, Pakistan	75.44
+339	Lahore, Pakistan	75.09
+340	Dhaka, Bangladesh	62.97
+341	Alexandria, Egypt	60.62
